@@ -157,7 +157,7 @@
     </div>
 
     <div class="container" id="login-container">
-        <h2>Login</h2>
+        <!-- <h2>Login</h2>
         <form>
             <div class="form-group">
                 <label for="login-email">Email:</label>
@@ -168,7 +168,7 @@
                 <input type="password" id="login-password" placeholder="Enter your password" required>
             </div>
             <button type="submit" class="btn">Login</button>
-        </form>
+        </form> -->
         <div class="toggle-link">
             Don't have an account? <a href="#" onclick="showSignin()">Sign Up</a>
         </div>
